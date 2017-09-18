@@ -7,13 +7,13 @@ type RegController struct {
 /**
  *	注册的页面
  */
-func (login *LoginController) RegHtml() {
+func (login *RegController) RegHtml() {
 	//TODO 等待写入注册界面
 }
 
 /**
  *	注册的Api
  */
-func (login *LoginController) RegApi() {
+func (login *RegController) RegApi() {
 	//TODO 等待写入注册Api
 }

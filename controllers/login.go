@@ -10,6 +10,7 @@ type LoginController struct {
  */
 func (login *LoginController) LoginHtml() {
 	//TODO 等待写入登录界面
+	login.TplName = "index.tpl"
 }
 
 /**
